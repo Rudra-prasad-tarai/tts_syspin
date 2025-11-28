@@ -1,3 +1,4 @@
 # Ignore specific IISc SYSPIN dataset directory
 /IISc_SYSPIN_Data/IISc_SYSPINProject_Hindi_Female_Spk001_HC/
 /data/
+/models
