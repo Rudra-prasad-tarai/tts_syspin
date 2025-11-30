@@ -2,3 +2,11 @@
 /IISc_SYSPIN_Data/IISc_SYSPINProject_Hindi_Female_Spk001_HC/
 /data/
 /models
+/TTS/
+/unsloth_compiled_cache
+/processed_data/
+/scripts/attempt1/
+
+#files 
+config.json
+dataset_tokenized_train.jsonl
