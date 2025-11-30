@@ -1,11 +1,11 @@
 # Ignore specific IISc SYSPIN dataset directory
-/IISc_SYSPIN_Data/IISc_SYSPINProject_Hindi_Female_Spk001_HC/
 /data/
 /models
 /TTS/
 /unsloth_compiled_cache
 /processed_data/
 /scripts/attempt1/
+/lora_syspin_hindi_v1
 
 #files 
 config.json
