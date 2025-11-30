@@ -1,11 +1,13 @@
 # Ignore specific IISc SYSPIN dataset directory
-/data/
+data/*
+!data/.gitkeep
 /models
 /TTS/
 /unsloth_compiled_cache
 /processed_data/
 /scripts/attempt1/
-/lora_syspin_hindi_v1
+/lora_syspin_hindi_v1/*
+!lora_syspin_hindi_v1/.gitkeep
 
 #files 
 config.json
